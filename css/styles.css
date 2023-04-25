@@ -1,0 +1,102 @@
+/* Estilo para todo el cuerpo */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+  }
+  
+  /* Estilo para el encabezado h1 */
+  h1 {
+    text-align: center;
+    background-color: aliceblue;
+  }
+  
+  /* Estilo para las secciones h2 */
+  h2 {
+    text-align: center;
+    margin-top: 20px;
+    background-color: aliceblue;
+  }
+  
+  /* Estilo para las listas ul */
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Estilo para cada item de lista li */
+  li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    max-width: 300px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+
+  table {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    max-width: 6000px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Estilo para las imágenes */
+  li img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para los encabezados de producto */
+  li h3 {
+    margin: 0;
+  }
+  
+  /* Estilo para los precios */
+  li strong {
+    font-size: 1.2em;
+  }
+  
+  /* Estilo para la descripción */
+  li p:not(:last-child) {
+    margin-bottom: 10px;
+  }
+
+  #logo {
+    display: flex;
+    align-items: center;
+}
+
+#alergias-container {
+    background-color: white;
+    padding: 10px;
+    float: right;
+}
+
+#alergias {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#klk {
+  color: white;
+  padding: 10px;
+}

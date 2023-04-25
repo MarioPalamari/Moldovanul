@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <entrada>
+    <nombre>Sarmale</nombre>
+    <descripcion>Rollitos de hojas de col rellenos de carne de cerdo picada, arroz, cebolla y especias, cocidos en un caldo de carne y servidos con crema agria.</descripcion>
+    <precio>9.50</precio>
+    <content>🥬🍖</content>
+    <imagen>./img/sarmale.jpg</imagen>
+  </entrada>
+  <entrada>
+   <nombre>Racituri</nombre>
+   <descripcion>Jalea transparente hecha de carne de cerdo congelada, específicamente de orejas, patas y cabezas de cerdo.</descripcion>
+   <precio>6.50</precio>
+   <content>🥬🍖</content>
+   <imagen>./img/racituri.jpg</imagen>
+  </entrada>
+  <entrada>
+   <nombre>Macaroane cu brinza</nombre>
+   <descripcion>Un plato tradicional moldavo de pasta cocida mezclada con queso feta y crema agria.</descripcion>
+   <precio>8.50</precio>
+   <content>🥛</content>
+   <imagen>./img/macaroane.jpg</imagen>
+  </entrada>
+  <entrada>
+    <nombre>Salata de Vinete</nombre>
+    <descripcion>Ensalada de berenjenas asadas y peladas, mezcladas con cebolla, perejil, aceite de oliva y ajo, servida con pan tostado.</descripcion>
+    <precio>6.00</precio>
+    <content>🥬</content>
+    <imagen>./img/salata.jpg</imagen>
+  </entrada>
+  <entrada>
+   <nombre>Limba Soacrei</nombre>
+   <descripcion>Berenjenas rellenas de una mezcla de vegetales como pimientos, tomates, cebolla y ajo, todo ello cocido a fuego lento en una salsa de tomate y hierbas aromáticas.</descripcion>
+   <precio>5.50</precio>
+   <content>🥬🍖</content>
+   <imagen>./img/limba.jpg</imagen>
+  </entrada>
+  <entrada>
+   <nombre>Placinta</nombre>
+   <descripcion>Pan frito con diferentes tipos de relleno según la estación del año, a elegir entre queso feta, col o patata.</descripcion>
+   <precio>7.50</precio>
+   <content>🥛</content>
+   <imagen>./img/placinta.jpg</imagen>
+  </entrada>
+  <plato>
+    <nombre>Mititei</nombre>
+    <descripcion>Salchichas de carne de cerdo y cordero mezcladas con ajo, comino, pimentón y otras especias, asadas a la parrilla y servidas con pan de ajo y mostaza.</descripcion>
+    <precio>7.50</precio>
+    <content>🍖</content>
+    <imagen>./img/mititei.jpg</imagen>
+  </plato>
+  <plato>
+    <nombre>Mamaliga cu Branza si Smantana</nombre>
+    <descripcion>Un plato de maíz tradicional similar al polenta, servido con queso de oveja rallado y crema agria.</descripcion>
+    <precio>8.75</precio>
+    <content>🌾🥛</content>
+    <imagen>./img/mamaliga.jpg</imagen>
+  </plato>
+  <plato>
+    <nombre>Chiftele</nombre>
+    <descripcion>Albóndigas de carne picada mezcladas con huevo, pan rallado y especias como ajo, perejil y en ocasiones hierbabuena.</descripcion>
+    <precio>9.50</precio>
+    <content>🍖</content>
+    <imagen>./img/chiftele.jpg</imagen>
+  </plato>
+  <plato>
+    <nombre>Ciorba de pui</nombre>
+    <descripcion>Sopa de pollo con verduras y especias, servida con crema agria y ají picante.</descripcion>
+    <precio>10.50</precio>
+    <content>🥬🍖🥛</content>
+    <imagen>./img/ciorba_pui.jpg</imagen>
+  </plato>
+  <plato>
+    <nombre>Zeama</nombre>
+    <descripcion>Sopa a base de caldo de pollo con fideos y numerosos tipos de vegetales como patatas, cebollas, zanahorias y más.</descripcion>
+    <precio>10.50</precio>
+    <content>🥬🍖🌾</content>
+    <imagen>./img/zama.jpg</imagen>
+  </plato>
+    <plato>
+    <nombre>Borsh</nombre>
+    <descripcion>Sopa de verduras a base de remolacha con cebolla, tomate, col, zanahorias y judías verdes.</descripcion>
+    <precio>10.50</precio>
+    <content>🥬</content>
+    <imagen>./img/borsh.jpg</imagen>
+  </plato>
+  <postre>
+    <nombre>Papanasi</nombre>
+    <descripcion>Bolas de queso cottage fritas y servidas con crema agria y mermelada de frutas.</descripcion>
+    <precio>6.50</precio>
+    <content>🍑🥛</content>
+    <imagen>./img/papanasis.jpg</imagen>
+  </postre>
+  <postre>
+    <nombre>Placinta cu Mere</nombre>
+    <descripcion>Pastel de hojaldre relleno de manzanas, canela y azúcar, servido con crema agria.</descripcion>
+    <precio>5.50</precio>
+    <content>🍑</content>
+    <imagen>./img/placinta_mere.jpg</imagen>
+  </postre>
+    <postre>
+    <nombre>Cusma lui guguta</nombre>
+    <descripcion>Pastel hecho de panqueques rellenos de cerezas y crema agria, cubierto con chocolate rayado.</descripcion>
+    <precio>7.50</precio>
+    <content>🍑🥛</content>
+    <imagen>./img/guguta.jpg</imagen>
+  </postre>
+  <bebida>
+    <nombre>Vinul Rosu</nombre>
+    <descripcion>Vino tinto moldavo, elaborado a partir de uvas autóctonas como Rara Neagră y Fetească Neagră.</descripcion>
+    <precio>8.00</precio>
+    <imagen>./img/vinul_rosu.jpg</imagen>
+  </bebida>
+  <bebida>
+    <nombre>Vinul Alb</nombre>
+    <descripcion>Vino blanco moldavo, elaborado a partir de uvas autóctonas como Fetească Albă y Chardonnay.</descripcion>
+    <precio>7.50</precio>
+    <imagen>./img/vinul_alb.jpg</imagen>
+  </bebida>
+    <bebida>
+    <nombre>Bere</nombre>
+    <descripcion>Cerveza tradicional de la capital de Moldavia.</descripcion>
+    <precio>2.50</precio>
+    <imagen>./img/bere.jpg</imagen>
+  </bebida>
+  <bebida>
+    <nombre>Nucata</nombre>
+    <descripcion>Bebida tradicional moldava hecha a partir de nueces verdes, azúcar y vodka.</descripcion>
+    <precio>4.00</precio>
+    <imagen>./img/nucata.jpg</imagen>
+  </bebida>
+  <bebida>
+    <nombre>Refrescos</nombre>
+    <descripcion>Refrescos varios: Coca-Cola, Nestea, Fanta, Sprite,</descripcion>
+    <precio>2.00</precio>
+    <imagen>./img/refresco.jpg</imagen>
+  </bebida>
+  <bebida>
+    <nombre>Apa</nombre>
+    <descripcion>Agua mineral natural de Chisnau</descripcion>
+    <precio>1.00</precio>
+    <imagen>./img/apa.jpg</imagen>
+  </bebida>
+</menu>
